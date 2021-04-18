@@ -11,5 +11,5 @@ package concurrentlib;
  * @param <E> the type of element held in this collection
  */
 public interface MhyBlockingQueue<E>  {
-    
+
 }
