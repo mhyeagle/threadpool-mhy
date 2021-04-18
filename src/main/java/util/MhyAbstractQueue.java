@@ -1,4 +1,6 @@
-package concurrentlib;
+package util;
+
+import util.MhyQueue;
 
 import java.util.AbstractCollection;
 
@@ -17,5 +19,5 @@ public abstract class MhyAbstractQueue<E>
      */
     protected MhyAbstractQueue() {}
 
-    
+
 }

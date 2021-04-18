@@ -1,4 +1,4 @@
-package concurrentlib;
+package util;
 
 import java.util.Collection;
 
