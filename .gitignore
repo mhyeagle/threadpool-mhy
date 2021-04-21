@@ -26,3 +26,16 @@ hs_err_pid*
 *.iml
 *.idea
 .idea/*
+
+# vs code
+.classpath
+.factorypath
+.project
+.settings/
+
+*/.classpath
+*/.factorypath
+*/.project
+*/.settings/
+
+
